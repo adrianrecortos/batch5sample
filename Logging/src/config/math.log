@@ -1,0 +1,8 @@
+Feb 17, 2023 2:43:38 PM org.ssglobal.training.codes.MathOp div
+INFO: start of method div() with paramters x = 10 y = 2
+Feb 17, 2023 2:43:38 PM org.ssglobal.training.codes.MathOp div
+INFO: end of method div() with paramters x = 10 y = 2
+Feb 17, 2023 2:44:24 PM org.ssglobal.training.codes.MathOp div
+INFO: start of method div() with paramters x = 10 y = 0
+Feb 17, 2023 2:44:24 PM org.ssglobal.training.codes.MathOp div
+SEVERE: division by zero error
